@@ -36,7 +36,7 @@ keywords:              [NLP, deep learning, machine learning]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/Sara Rajaee.jpg
+#logo:                  /assets/img/Sara Rajaee.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -87,7 +87,7 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/jeremy-bishop.JPG
+accent_image:          /assets/img/background.jpeg
 accent_color:          rgb(9,90,159)
 
 # This is used for the `theme-color` meta tag,
