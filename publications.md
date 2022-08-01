@@ -21,3 +21,5 @@ ACL 2021.([[Pdf]](https://aclanthology.org/2021.acl-short.73/), [[Slides]](https
 Z. Rashidi, V. Hakami, P. Geranmayeh, **S. Rajaee**. 
 A Multi-Agent Learning Approach to Content Placement in Cache-Enabled Small Cell Networks with Incomplete Information.
 Neural Computing and Applications 2022. ([[Pdf]](https://link.springer.com/article/10.1007/s00521-022-07051-5))
+
+* Equal Contribution.
