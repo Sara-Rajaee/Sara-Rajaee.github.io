@@ -5,11 +5,11 @@ grouped: true
 
 M. A. Tajari∗, **S. Rajaee∗**, M. T. Pilehvar. 
 An Empirical Study on the Transferability of Transformer Modules in Parameter-efficient Fine-tuning.
-**EMNLP 2022** (details soon).
+**EMNLP 2022**. ([[Pdf]](https://aclanthology.org/2022.emnlp-main.726/)
 
 **S. Rajaee**, Y. Yaghoobzadeh, M. T. Pilehvar. 
 Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference.
-**EMNLP 2022** (details soon).
+**EMNLP 2022**. ([[Pdf]](https://aclanthology.org/2022.emnlp-main.725/), [[Repo]](https://github.com/Sara-Rajaee/reverse_bias))
 
 H. Mehrafarin∗, **S. Rajaee∗**, M. T. Pilehvar. 
 On the Importance of Data Size in Probing Fine-tuned Models.
