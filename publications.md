@@ -5,11 +5,11 @@ grouped: true
 
 R. Choenni∗, **S. Rajaee∗**, C. Monz, E. Shutova. 
 On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?
-**Under Review**.([[Pdf]](https://arxiv.org/pdf/2406.14267),
+**Under Review**. ([[Pdf]](https://arxiv.org/pdf/2406.14267), [[Repo]](https://github.com/Sara-Rajaee/mt4multilinguality))
 
 **S. Rajaee**, C. Monz. 
 An Empirical Study on the Transferability of Transformer Modules in Parameter-efficient Fine-tuning.
-**EACL 2024**. ([[Pdf]](https://aclanthology.org/2024.eacl-long.177.pdf), [[Repo]](https://github.com/Sara-Rajaee/crosslingual-evaluation)), [[Slides]](https://docs.google.com/presentation/d/1iR5eMW4iyc15uz2mXSidRGB-w5BsAzScjY1JCl-j000/edit?usp=sharing),
+**EACL 2024**. ([[Pdf]](https://aclanthology.org/2024.eacl-long.177.pdf), [[Repo]](https://github.com/Sara-Rajaee/crosslingual-evaluation), [[Slides]](https://docs.google.com/presentation/d/1iR5eMW4iyc15uz2mXSidRGB-w5BsAzScjY1JCl-j000/edit?usp=sharing))
 
 M. A. Tajari∗, **S. Rajaee∗**, M. T. Pilehvar. 
 An Empirical Study on the Transferability of Transformer Modules in Parameter-efficient Fine-tuning.
