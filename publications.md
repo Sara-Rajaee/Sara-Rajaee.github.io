@@ -3,6 +3,10 @@ title: Publications
 grouped: true
 ---
 
+ **S. Rajaee∗**, Kumar Pratik*, Gabriele Cesa, Arash Behboodi.
+Local Look-Ahead Guidance via Verifier-in-the-Loop for Automated Theorem Proving.
+**Findings of ACL 2025, Reasoning and Planning for LLMs, ICLR 2025**. ([[Pdf]](https://arxiv.org/abs/2503.09730)
+
 R. Choenni∗, **S. Rajaee∗**, C. Monz, E. Shutova. 
 On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?
 **Under Review**. ([[Pdf]](https://arxiv.org/pdf/2406.14267), [[Repo]](https://github.com/Sara-Rajaee/mt4multilinguality))
